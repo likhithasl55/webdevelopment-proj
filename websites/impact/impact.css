@@ -578,9 +578,12 @@ menu a{
 .footer-bottom {
     justify-content: center;
     text-align: center;
-    color: white;
+    color: rgb(251, 245, 245);
     font-size: 12px;
     padding: 20px;
+    background-color: rgb(78, 157, 131);
+    width: 100%;
+    margin-left: 0px;
 }
 .footer-bottom h2{
     font-size: 14px;
